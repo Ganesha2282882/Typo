@@ -5,9 +5,14 @@ You cannot "pip install typo" you have to put this script in your code and run y
 
 > You can also look at example.py to look at  the same example.
 
+## Install:
+~~~bash
+pip install typo
+~~~
+
 ## Example:
 ~~~python
-import typopoo
+import typo
 
 # All your code is here...
 ~~~
