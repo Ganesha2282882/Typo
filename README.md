@@ -17,7 +17,7 @@ import typo
 # All your code is here...
 ~~~
 
-> # Help contribute the package at [https://repl.it/join/anwigkzt-ganeshasharma](https://repl.it/join/anwigkzt-ganeshasharma)!
+> # Help contribute the package at [https://repl.it/join/anwigkzt-ganeshasharma](https://repl.it/join/anwigkzt-ganeshasharma)! (Dead link)
 > This is an Open-source package.
 
 --------
