@@ -9,4 +9,5 @@ clas = class
 lis = list
 dic = dict
 impt = import
+pnt = print
 
